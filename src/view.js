@@ -21,5 +21,5 @@
  */
 
 /* eslint-disable no-console */
-console.log( 'Hello World! (from create-block-wp-innerblocks block)' );
+// console.log( 'Hello World! (from create-block-wp-innerblocks block)' );
 /* eslint-enable no-console */
